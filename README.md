@@ -1,3 +1,3 @@
-Examenes de programacion I y II.
+Examenes de programacion I, II y Curso de JavaScript.
 
-Mi trayecto por programacion I y II en la universidad privada Rafael Belloso Chacín con el profesor Andres medina.
+
