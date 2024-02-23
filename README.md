@@ -1,3 +1,3 @@
-Examenes de programacion I, II y Curso de JavaScript.
+Examenes de programacion I, II.
 
 
