@@ -3,7 +3,7 @@
 using namespace std;
 
 /*Zoologico
-Examen 4 Zoologico Eduard Fernandez C.I: 30462299 
+Examen 4 Zoologico Eduard Fernandez 
 Datos
 Especies (minimo 5)
 Nombre string
