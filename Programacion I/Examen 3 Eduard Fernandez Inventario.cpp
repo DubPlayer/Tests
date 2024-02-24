@@ -3,7 +3,7 @@
 using namespace std;
 
 /*
-EXAMEN EDUARD FERNANDEZ C.I: 30462299 C-613 prog 1
+EXAMEN EDUARD FERNANDEZ prog 1
 Hacer un sistema de inventario con los datos:
 -Nombre
 -Precio ($)
