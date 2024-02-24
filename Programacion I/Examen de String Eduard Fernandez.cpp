@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-// Eduard Fernandez CI 30462299 PROGAMACION 1 
+// Eduard Fernandez CI PROGAMACION 1 
 /*
 Hacer un programa que permita:
 
